@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about writing optimized SQL queries for large datasets. Data visualization and storytelling using Power BI
 - 📫 How to reach me: 📩 sruthybyju55@gmail.com 
                       💼 www.linkedin.com/in/sruthy-byju-237144294
-- ⚡ Fun fact: I love learning new thing that i don't have skill in yet!📚 Enjoy experiments with new datasets in my free time👩‍💻 
+- ⚡ Fun fact: I love learning new thing that i don't have skill in yet!📚 Enjoy experiments with new datasets in my free time👩‍💻
 -->
